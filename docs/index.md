@@ -332,3 +332,4 @@ Exemple d’intégration de Git dans Visual Studio Code
 
 
 ferme la
+allez ferme ta gueule
